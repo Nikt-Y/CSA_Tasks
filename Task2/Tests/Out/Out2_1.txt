@@ -1,0 +1,15 @@
+Filled container:
+Container contains 12 elements.
+0:	It is Procedural programming language: number of characters = 4,  abstract types = true.			Popularity = 38.3%, year = 1994, quotient = 498.5
+1:	It is Procedural programming language: number of characters = 7,  abstract types = false.			Popularity = 73.7%, year = 1979, quotient = 282.714
+2:	It is Object oriented programming language: number of char. = 8,  inheritance = single.   			Popularity = 76.2%, year = 2010, quotient = 251.25
+3:	It is Object oriented programming language: number of char. = 4,  inheritance = multiple.   			Popularity = 76.6%, year = 2013, quotient = 503.25
+4:	It is Procedural programming language: number of characters = 9,  abstract types = true.			Popularity = 57.3%, year = 1999, quotient = 222.111
+5:	It is Procedural programming language: number of characters = 4,  abstract types = false.			Popularity = 93.7%, year = 1985, quotient = 496.25
+6:	It is Object oriented programming language: number of char. = 9,  inheritance = interfaces.   			Popularity = 12.4%, year = 2002, quotient = 222.444
+7:	It is Functional programming language: number of characters = 3,  typing = strict, lazy calculations = true. 	Popularity = 90.1%, year = 2000, quotient = 666.667
+8:	It is Functional programming language: number of characters = 5,  typing = dynamic, lazy calculations = true.	Popularity = 50.2%, year = 1974, quotient = 394.8
+9:	It is Functional programming language: number of characters = 4,  typing = dynamic, lazy calculations = false.	Popularity = 2.8%, year = 1993, quotient = 498.25
+10:	It is Functional programming language: number of characters = 4,  typing = strict, lazy calculations = true. 	Popularity = 77.7%, year = 1977, quotient = 494.25
+11:	It is Object oriented programming language: number of char. = 5,  inheritance = interfaces.   			Popularity = 13.4%, year = 2015, quotient = 403
+Time: 10 milliseconds

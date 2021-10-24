@@ -1,0 +1,53 @@
+Quicksorted by quotient:
+Container contains 50 elements.
+0:	It is Object oriented programming language: number of char. = 1,  inheritance = interfaces.   			Popularity = 89.4%, year = 1975, quotient = 1975
+1:	It is Functional programming language: number of characters = 2,  typing = strict, lazy calculations = false. 	Popularity = 3.6%, year = 1997, quotient = 998.5
+2:	It is Object oriented programming language: number of char. = 2,  inheritance = single.   			Popularity = 4%, year = 1973, quotient = 986.5
+3:	It is Functional programming language: number of characters = 2,  typing = dynamic, lazy calculations = true.	Popularity = 30%, year = 1964, quotient = 982
+4:	It is Procedural programming language: number of characters = 3,  abstract types = false.			Popularity = 22%, year = 1999, quotient = 666.333
+5:	It is Object oriented programming language: number of char. = 4,  inheritance = single.   			Popularity = 45.5%, year = 1968, quotient = 492
+6:	It is Procedural programming language: number of characters = 5,  abstract types = true.			Popularity = 43.9%, year = 2020, quotient = 404
+7:	It is Procedural programming language: number of characters = 5,  abstract types = false.			Popularity = 24.2%, year = 2019, quotient = 403.8
+8:	It is Object oriented programming language: number of char. = 5,  inheritance = multiple.   			Popularity = 40.5%, year = 1984, quotient = 396.8
+9:	It is Functional programming language: number of characters = 6,  typing = strict, lazy calculations = true. 	Popularity = 19.2%, year = 1981, quotient = 330.167
+10:	It is Procedural programming language: number of characters = 6,  abstract types = false.			Popularity = 28.9%, year = 1971, quotient = 328.5
+11:	It is Object oriented programming language: number of char. = 6,  inheritance = interfaces.   			Popularity = 79.2%, year = 1965, quotient = 327.5
+12:	It is Procedural programming language: number of characters = 6,  abstract types = false.			Popularity = 33.5%, year = 1958, quotient = 326.333
+13:	It is Procedural programming language: number of characters = 7,  abstract types = false.			Popularity = 31.5%, year = 2017, quotient = 288.143
+14:	It is Procedural programming language: number of characters = 7,  abstract types = true.			Popularity = 38.7%, year = 2016, quotient = 288
+15:	It is Functional programming language: number of characters = 7,  typing = dynamic, lazy calculations = true.	Popularity = 33.9%, year = 1987, quotient = 283.857
+16:	It is Functional programming language: number of characters = 7,  typing = strict, lazy calculations = true. 	Popularity = 20.4%, year = 1965, quotient = 280.714
+17:	It is Functional programming language: number of characters = 8,  typing = dynamic, lazy calculations = true.	Popularity = 18.9%, year = 1984, quotient = 248
+18:	It is Procedural programming language: number of characters = 9,  abstract types = true.			Popularity = 29.6%, year = 2004, quotient = 222.667
+19:	It is Functional programming language: number of characters = 9,  typing = strict, lazy calculations = false. 	Popularity = 30%, year = 1990, quotient = 221.111
+20:	It is Functional programming language: number of characters = 9,  typing = dynamic, lazy calculations = true.	Popularity = 29.6%, year = 1964, quotient = 218.222
+21:	It is Object oriented programming language: number of char. = 10,  inheritance = multiple.   			Popularity = 41.1%, year = 1985, quotient = 198.5
+22:	It is Object oriented programming language: number of char. = 10,  inheritance = interfaces.   			Popularity = 61%, year = 1969, quotient = 196.9
+23:	It is Object oriented programming language: number of char. = 11,  inheritance = interfaces.   			Popularity = 72.4%, year = 1979, quotient = 179.909
+24:	It is Functional programming language: number of characters = 11,  typing = dynamic, lazy calculations = true.	Popularity = 65.7%, year = 1978, quotient = 179.818
+25:	It is Functional programming language: number of characters = 11,  typing = dynamic, lazy calculations = true.	Popularity = 2.3%, year = 1973, quotient = 179.364
+26:	It is Functional programming language: number of characters = 12,  typing = dynamic, lazy calculations = true.	Popularity = 61%, year = 2013, quotient = 167.75
+27:	It is Procedural programming language: number of characters = 12,  abstract types = false.			Popularity = 74.3%, year = 1987, quotient = 165.583
+28:	It is Object oriented programming language: number of char. = 12,  inheritance = single.   			Popularity = 96.4%, year = 1980, quotient = 165
+29:	It is Functional programming language: number of characters = 12,  typing = dynamic, lazy calculations = true.	Popularity = 11.9%, year = 1971, quotient = 164.25
+30:	It is Procedural programming language: number of characters = 12,  abstract types = true.			Popularity = 56%, year = 1967, quotient = 163.917
+31:	It is Object oriented programming language: number of char. = 13,  inheritance = multiple.   			Popularity = 47.4%, year = 2010, quotient = 154.615
+32:	It is Functional programming language: number of characters = 13,  typing = strict, lazy calculations = true. 	Popularity = 14.2%, year = 1989, quotient = 153
+33:	It is Object oriented programming language: number of char. = 14,  inheritance = multiple.   			Popularity = 95.8%, year = 1960, quotient = 140
+34:	It is Procedural programming language: number of characters = 15,  abstract types = true.			Popularity = 29.4%, year = 2017, quotient = 134.467
+35:	It is Object oriented programming language: number of char. = 15,  inheritance = interfaces.   			Popularity = 2.7%, year = 1967, quotient = 131.133
+36:	It is Object oriented programming language: number of char. = 15,  inheritance = interfaces.   			Popularity = 57.5%, year = 1964, quotient = 130.933
+37:	It is Object oriented programming language: number of char. = 16,  inheritance = interfaces.   			Popularity = 9.4%, year = 2018, quotient = 126.125
+38:	It is Object oriented programming language: number of char. = 16,  inheritance = multiple.   			Popularity = 55.6%, year = 1996, quotient = 124.75
+39:	It is Object oriented programming language: number of char. = 16,  inheritance = multiple.   			Popularity = 41.5%, year = 1959, quotient = 122.438
+40:	It is Functional programming language: number of characters = 17,  typing = strict, lazy calculations = false. 	Popularity = 41.2%, year = 2009, quotient = 118.176
+41:	It is Object oriented programming language: number of char. = 17,  inheritance = interfaces.   			Popularity = 88.3%, year = 1988, quotient = 116.941
+42:	It is Object oriented programming language: number of char. = 18,  inheritance = interfaces.   			Popularity = 99.7%, year = 2008, quotient = 111.556
+43:	It is Procedural programming language: number of characters = 19,  abstract types = true.			Popularity = 2.9%, year = 2018, quotient = 106.211
+44:	It is Functional programming language: number of characters = 19,  typing = strict, lazy calculations = true. 	Popularity = 50%, year = 1960, quotient = 103.158
+45:	It is Object oriented programming language: number of char. = 20,  inheritance = interfaces.   			Popularity = 1.5%, year = 2003, quotient = 100.15
+46:	It is Functional programming language: number of characters = 20,  typing = strict, lazy calculations = true. 	Popularity = 22.4%, year = 1983, quotient = 99.15
+47:	It is Functional programming language: number of characters = 20,  typing = strict, lazy calculations = true. 	Popularity = 4.1%, year = 1978, quotient = 98.9
+48:	It is Functional programming language: number of characters = 20,  typing = strict, lazy calculations = true. 	Popularity = 58.7%, year = 1972, quotient = 98.6
+49:	It is Object oriented programming language: number of char. = 20,  inheritance = single.   			Popularity = 17.1%, year = 1959, quotient = 97.95
+Time: 4 milliseconds
