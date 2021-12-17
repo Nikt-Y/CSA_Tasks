@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/CSA/Task5/code/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+thread
+-
+algorithm
+-
+ctime
+-
+mutex
+-
+
